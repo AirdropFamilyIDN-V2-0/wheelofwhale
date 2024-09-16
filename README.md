@@ -20,7 +20,8 @@ npm install axios
 node index.js
 ```
 
-# KONTEKS : https://t.me/AirdropFamilyIDN/5182
+# KONTEKS
+- https://t.me/AirdropFamilyIDN/5182
 
 # NOTED
 - yang punya link invite golden bisa di share ke yang lain
